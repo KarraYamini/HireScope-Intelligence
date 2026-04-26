@@ -1,0 +1,101 @@
+Job_Role,Text,Clean_Text
+Data Science,"Build machine learning models, analyze data using Python, pandas, and visualization tools.",build machine learning models analyze data using python pandas visualization tools
+Data Science,"Work on predictive analytics, data preprocessing, and statistical modeling.",work predictive analytics data preprocessing statistical modeling
+Data Science,"Develop AI solutions, handle big data, and create data-driven insights.",develop ai solutions handle big data create data driven insights
+Data Science,"Perform data mining, feature engineering, and model optimization.",perform data mining feature engineering model optimization
+HR,"Manage recruitment, onboarding, payroll, and employee engagement.",manage recruitment onboarding payroll employee engagement
+HR,"Handle HR policies, performance management, and conflict resolution.",handle hr policies performance management conflict resolution
+HR,Coordinate hiring processes and maintain employee records.,coordinate hiring processes maintain employee records
+HR,Support organizational development and HR analytics.,support organizational development hr analytics
+Advocate,"Represent clients in court, prepare legal documents, and provide legal advice.",represent clients court prepare legal documents provide legal advice
+Advocate,"Handle litigation, case research, and legal compliance.",handle litigation case research legal compliance
+Advocate,"Draft contracts, agreements, and legal notices.",draft contracts agreements legal notices
+Advocate,Provide consultation on legal matters and dispute resolution.,provide consultation legal matters dispute resolution
+Arts,"Create visual content including drawings, paintings, and digital art.",create visual content including drawings paintings digital art
+Arts,Work on creative design projects and visual storytelling.,work creative design projects visual storytelling
+Arts,Develop artistic concepts and multimedia designs.,develop artistic concepts multimedia designs
+Arts,Collaborate on branding and artistic production.,collaborate branding artistic production
+Web Designing,"Design responsive websites using HTML, CSS, and JavaScript.",design responsive websites using html css javascript
+Web Designing,Develop UI/UX layouts and improve user experience.,develop ui ux layouts improve user experience
+Web Designing,Work with frontend frameworks and web optimization.,work frontend frameworks web optimization
+Web Designing,Create interactive and visually appealing web interfaces.,create interactive visually appealing web interfaces
+Mechanical Engineer,Design and develop mechanical systems and machinery.,design develop mechanical systems machinery
+Mechanical Engineer,Work on manufacturing processes and equipment maintenance.,work manufacturing processes equipment maintenance
+Mechanical Engineer,Analyze mechanical performance and improve efficiency.,analyze mechanical performance improve efficiency
+Mechanical Engineer,Handle CAD design and mechanical simulations.,handle cad design mechanical simulations
+Sales,"Drive sales, generate leads, and maintain client relationships.",drive sales generate leads maintain client relationships
+Sales,Achieve revenue targets and manage customer accounts.,achieve revenue targets manage customer accounts
+Sales,Develop sales strategies and market analysis.,develop sales strategies market analysis
+Sales,Promote products and negotiate deals with clients.,promote products negotiate deals clients
+Health and fitness,Guide clients on fitness training and nutrition plans.,guide clients fitness training nutrition plans
+Health and fitness,Design workout programs and monitor progress.,design workout programs monitor progress
+Health and fitness,Provide wellness coaching and lifestyle guidance.,provide wellness coaching lifestyle guidance
+Health and fitness,Conduct fitness assessments and health tracking.,conduct fitness assessments health tracking
+Civil Engineer,Plan and oversee construction projects and infrastructure.,plan oversee construction projects infrastructure
+Civil Engineer,Design structural layouts and ensure safety standards.,design structural layouts ensure safety standards
+Civil Engineer,Manage site operations and project timelines.,manage site operations project timelines
+Civil Engineer,Analyze building materials and engineering designs.,analyze building materials engineering designs
+Java Developer,Develop backend applications using Java and Spring Boot.,develop backend applications using java spring boot
+Java Developer,Build REST APIs and microservices architecture.,build rest apis microservices architecture
+Java Developer,Debug and optimize Java applications.,debug optimize java applications
+Java Developer,Work on enterprise-level Java systems.,work enterprise level java systems
+Business Analyst,Analyze business requirements and improve processes.,analyze business requirements improve processes
+Business Analyst,"Prepare reports, dashboards, and data insights.",prepare reports dashboards data insights
+Business Analyst,Coordinate between stakeholders and technical teams.,coordinate stakeholders technical teams
+Business Analyst,Identify business opportunities and solutions.,identify business opportunities solutions
+SAP Developer,Develop SAP modules and enterprise applications.,develop sap modules enterprise applications
+SAP Developer,Work on SAP ABAP programming and system integration.,work sap abap programming system integration
+SAP Developer,Maintain SAP solutions and troubleshoot issues.,maintain sap solutions troubleshoot issues
+SAP Developer,Support ERP implementation and customization.,support erp implementation customization
+Automation Testing,Develop automated test scripts using Selenium.,develop automated test scripts using selenium
+Automation Testing,Perform regression and functional testing.,perform regression functional testing
+Automation Testing,Ensure software quality and bug tracking.,ensure software quality bug tracking
+Automation Testing,Integrate testing frameworks in CI/CD pipelines.,integrate testing frameworks ci cd pipelines
+Electrical Engineering,Design and maintain electrical systems and circuits.,design maintain electrical systems circuits
+Electrical Engineering,Work on power distribution and control systems.,work power distribution control systems
+Electrical Engineering,Analyze electrical performance and safety.,analyze electrical performance safety
+Electrical Engineering,Develop electrical schematics and testing.,develop electrical schematics testing
+Operations Manager,Oversee daily operations and improve efficiency.,oversee daily operations improve efficiency
+Operations Manager,Manage teams and operational workflows.,manage teams operational workflows
+Operations Manager,Optimize business processes and performance.,optimize business processes performance
+Operations Manager,Handle resource planning and logistics.,handle resource planning logistics
+Python Developer,Develop applications using Python and frameworks like Django.,develop applications using python frameworks like django
+Python Developer,Work on backend systems and API development.,work backend systems api development
+Python Developer,Write efficient and scalable Python code.,write efficient scalable python code
+Python Developer,Handle automation scripts and data processing.,handle automation scripts data processing
+DevOps Engineer,Manage CI/CD pipelines and cloud deployment.,manage ci cd pipelines cloud deployment
+DevOps Engineer,Automate infrastructure and monitoring systems.,automate infrastructure monitoring systems
+DevOps Engineer,"Work with Docker, Kubernetes, and cloud tools.",work docker kubernetes cloud tools
+DevOps Engineer,Ensure system reliability and performance.,ensure system reliability performance
+Network Security Engineer,Protect systems from cyber threats and attacks.,protect systems cyber threats attacks
+Network Security Engineer,"Manage firewalls, encryption, and security protocols.",manage firewalls encryption security protocols
+Network Security Engineer,Monitor network activity and vulnerability assessment.,monitor network activity vulnerability assessment
+Network Security Engineer,Implement security policies and risk management.,implement security policies risk management
+PMO,"Manage project timelines, resources, and budgets.",manage project timelines resources budgets
+PMO,Ensure project governance and reporting.,ensure project governance reporting
+PMO,Coordinate between teams and stakeholders.,coordinate teams stakeholders
+PMO,Track project performance and deliverables.,track project performance deliverables
+Database,Design and manage databases using SQL.,design manage databases using sql
+Database,Optimize queries and database performance.,optimize queries database performance
+Database,"Handle data storage, backup, and recovery.",handle data storage backup recovery
+Database,Ensure data integrity and security.,ensure data integrity security
+Hadoop,Work with big data technologies like Hadoop and Spark.,work big data technologies like hadoop spark
+Hadoop,Process large datasets and distributed systems.,process large datasets distributed systems
+Hadoop,Develop data pipelines and analytics solutions.,develop data pipelines analytics solutions
+Hadoop,Manage cluster and big data storage.,manage cluster big data storage
+ETL Developer,Design ETL pipelines for data integration.,design etl pipelines data integration
+ETL Developer,"Extract, transform, and load data efficiently.",extract transform load data efficiently
+ETL Developer,Work with data warehousing solutions.,work data warehousing solutions
+ETL Developer,Optimize ETL processes and workflows.,optimize etl processes workflows
+DotNet Developer,Develop applications using .NET and C#.,develop applications using net c
+DotNet Developer,Build web apps with ASP.NET framework.,build web apps asp net framework
+DotNet Developer,Debug and maintain .NET applications.,debug maintain net applications
+DotNet Developer,Work on enterprise software development.,work enterprise software development
+Blockchain,Develop blockchain applications and smart contracts.,develop blockchain applications smart contracts
+Blockchain,Work with Ethereum and decentralized systems.,work ethereum decentralized systems
+Blockchain,Ensure security and transaction validation.,ensure security transaction validation
+Blockchain,Build distributed ledger technologies.,build distributed ledger technologies
+Testing,Perform software testing and quality assurance.,perform software testing quality assurance
+Testing,Identify bugs and ensure system reliability.,identify bugs ensure system reliability
+Testing,Execute test cases and document results.,execute test cases document results
+Testing,Work on manual and automated testing.,work manual automated testing
