@@ -1,0 +1,24 @@
+# Core Data Science
+numpy
+pandas
+
+# Machine Learning
+scikit-learn
+xgboost
+joblib
+
+# NLP
+nltk
+
+# Visualization (used in Streamlit charts)
+matplotlib
+seaborn
+plotly
+
+# Web App
+streamlit
+
+# Resume Parsing
+PyPDF2
+python-docx
+docx2txt
